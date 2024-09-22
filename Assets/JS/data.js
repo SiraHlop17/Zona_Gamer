@@ -262,7 +262,7 @@ export default
       "imagen": "https://tcf.admeen.org/game/18500/18431/200x123/moto-road-rash-3d-2.jpg",
       "link": "https://www.a10.com/game/moto-road-rash-3d-2"
     },
-    {
+    { 
       "nombre": "STICKMAN FIGHTER: EPIC BATTLE",
       "creador": "Playtouch",
       "fecha": "junio de 2017",

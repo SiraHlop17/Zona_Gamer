@@ -24,7 +24,7 @@ function mostrarEnHTML2(juegos) {
     document.getElementById("cuadroGeneral2").innerHTML = "";
     for (let i = 0; i < juegos.length; i++) {
         document.getElementById("cuadroGeneral2").innerHTML += `
-        
+            
             <div class="ordenar">
             
                 <a href="${juegos[i].link}">

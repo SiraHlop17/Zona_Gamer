@@ -1,6 +1,6 @@
 body {
     margin: 0px;
-    background-color: rgba(128, 128, 128, 0.349);
+    background: linear-gradient(145deg, #8be4ffea, #432fc4);
     margin-bottom: 0px;
     scroll-behavior: smooth;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -175,6 +175,7 @@ input:focus {
     background: linear-gradient(transparent, rgba(0, 0, 0, 0.945) 70%);
     border-radius: 25px;
     transition: height 0.8s ease;
+
 }
 .boxx h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
