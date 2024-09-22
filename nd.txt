@@ -1,0 +1,370 @@
+ <main class="general1" id="general1">
+
+        <div class="cuad1">
+            <div class="sub-div small">
+                <img class="img_small"
+                    src="https://play-lh.googleusercontent.com/wGVACBkMGBaG-9YJV4c4i6ShNXl7UYrl8kJEKf0P3nD0BmmpibZceLSvUMSWiVNgCRWi"
+                    alt="img1">
+                <div class="box">
+
+                    <a href="https://poki.com/es/g/level-devil">
+                        <h3>Level Devil</h3>
+                        <p>UNEPT <br>4.5 </p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div small">
+                <img class="img_small"
+                    src="https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/e689238d6dcbb672b749ab65960c0d65.png"
+                    alt="img1">
+                <div class="box">
+
+                    <a href="https://poki.com/es/g/brain-test-tricky-puzzles">
+                        <h3>Brain Test</h3>
+                        <p>Unico Studio <br>4.7 </p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div small">
+                <img class="img_small"
+                    src="https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/1cdb5c1a8c09ec5f8052a6c12bf6c79b.png"
+                    alt="img1">
+                <div class="box">
+
+                    <a href="https://poki.com/es/g/bad-ice-cream">
+                        <h3>Bad ice-cream</h3>
+                        <p>Nitrome <br>4.5 </p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div small">
+                <img class="img_small"
+                src="https://snakegames.io/upload/imgs/snake-vs-worms.png"
+                alt="img1">
+            <div class="box">
+
+                <a href="https://poki.com/es/g/bad-ice-cream">
+                    <h3>Snake VS Worms</h3>
+                    <p>Gremlin <br>4.4 </p>
+                </a>
+            </div>
+            </div>
+            <div class="sub-div large">
+                <img class="img_large" src="https://a.silvergames.com/j/b/geometry-dash.jpg" alt="img1">
+                <div class="box">
+                    <a href="//geometrydash-lite.com/">
+                        <h3>Geometry Dash</h3>
+                        <p>Robert Topala <br>4.5 <br>13 de agosto de 2013</p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div large">
+                <img class="img_large" src="https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/00adfbbd-b6ea-40ac-8c88-2be9ce0e5551.png" alt="img1">
+                <div class="box">
+                    <a href="https://poki.com/es/g/3d-moto-simulator-2">
+                        <h3>3D moto simulator 2</h3>
+                        <p>Mohamad A<br>4.4 <br>Octubre de 2016</p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div medium2"><img class="img_medium2"
+                    src="https://i.pinimg.com/736x/5e/06/06/5e0606fa24129d51e2fda7608e9b079a.jpg" alt="img1">
+                <div class="box">
+                    <a href="https://poki.com/es/g/subway-surfers">
+                        <h3>Subway surfers</h3>
+                        <p>Robert Topala <br>4.5 <br>13 de agosto de 2013</p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div medium2">
+                <img class="img_medium2"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWfB-u-RqqSxZFlQMIN6vp-RIjZ9SnnYNSlQ&s" alt="img1">
+                <div class="box">
+                    <a href="https://poki.com/es/g/subway-surfers">
+                        <h3>MOTO X3M SPOOKY LAND</h3>
+                        <p>MadPuffers<br>4.3 <br>octubre de 2019</p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div medium2">
+                <img class="img_medium2"
+                    src="https://i.pinimg.com/736x/5e/06/06/5e0606fa24129d51e2fda7608e9b079a.jpg" alt="img1">
+                <div class="box">
+                    <a href="https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/9b739087f9938fb143a2519252addbb8.png">
+                        <h3>RED BALL 4</h3>
+                        <p>Yohoho Games <br>4.5 <br>1 de abril de 1987</p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div small">
+                <img class="img_small"
+                    src="https://play-lh.googleusercontent.com/3hRbDjRjWMM6fIqfLFFt87W-_UCv-slKX46_zpDGc-i7Qv5GloRvtxoYpIrGILNUDc4"
+                    alt="img1">
+                <div class="box">
+
+                    <a href="https://poki.com/es/g/bad-ice-cream">
+                        <h3>MY PERFECT HOTEL</h3>
+                        <p>SayGames <br>4.5 </p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div small">
+                <img class="img_small"
+                    src="https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/fe7c19da32800855dfb8f039adfe353b.png"
+                    alt="img1">
+                <div class="box">
+
+                    <a href="https://poki.com/es/g/bad-ice-cream">
+                        <h3>PAPA'S FREEZERIA</h3>
+                        <p>Tony Solary y Matt Neff <br>4.7 </p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div small">
+                <img class="img_small"
+                    src="https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/f54dee3512ad75e89cc256c6bec22f06.jpeg"
+                    alt="img1">
+                <div class="box">
+
+                    <a href="https://poki.com/es/g/bad-ice-cream">
+                        <h3>PAPA LOUIE: when pizzas attack</h3>
+                        <p>Shigeru Miyamoto <br>4.5 </p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div small">
+                <img class="img_small"
+                    src="https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/1cdb5c1a8c09ec5f8052a6c12bf6c79b.png"
+                    alt="img1">
+                <div class="box">
+
+                    <a href="https://poki.com/es/g/bad-ice-cream">
+                        <h3>MURDER</h3>
+                        <p>Auguste Dupin<br>4.4 </p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div small">
+                <img class="img_small"
+                    src="https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/1cdb5c1a8c09ec5f8052a6c12bf6c79b.png"
+                    alt="img1">
+                <div class="box">
+
+                    <a href="https://poki.com/es/g/bad-ice-cream">
+                        <h3>Bad ice-cream</h3>
+                        <p>Nitrome <br>4.5 </p>
+                    </a>
+                </div>
+            </div>
+            <div class="sub-div small">
+                <img class="img_small"
+                    src="https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/1cdb5c1a8c09ec5f8052a6c12bf6c79b.png"
+                    alt="img1">
+                <div class="box">
+
+                    <a href="https://poki.com/es/g/bad-ice-cream">
+                        <h3>Bad ice-cream</h3>
+                        <p>Nitrome <br>4.5 </p>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="cuad2">
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div medium"></div>
+            <div class="sub-div large"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div medium2"></div>
+            <div class="sub-div large2"></div>
+            <div class="sub-div large2"></div>
+        </div>
+        <div class="cuad5">
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div medium"></div>
+            <div class="sub-div large"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div medium2"></div>
+            <div class="sub-div large2"></div>
+            <div class="sub-div large2"></div>
+        </div>
+        <div class="cuad6">
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div large"></div>
+            <div class="sub-div large"></div>
+            <div class="sub-div medium2"></div>
+            <div class="sub-div medium2"></div>
+            <div class="sub-div medium2"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+        </div>
+        <div class="cuad3">
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div large"></div>
+            <div class="sub-div large"></div>
+            <div class="sub-div medium2"></div>
+            <div class="sub-div medium2"></div>
+            <div class="sub-div medium2"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+        </div>
+
+        <div class="cuad4">
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div medium"></div>
+            <div class="sub-div large"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div small"></div>
+            <div class="sub-div medium2"></div>
+            <div class="sub-div large2"></div>
+            <div class="sub-div large2"></div>
+        </div>
+
+
+    </main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.general2 {
+    margin-top: 115px;
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+}
+
+
+.sub-divv {
+    width: 200px; 
+    height: 200px; 
+    margin: 10px; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    overflow: hidden; 
+    transition: transform 0.3s; 
+}
+
+.sub-divv:hover {
+    transform: translateY(-5px); 
+}
+
+.img_small {
+    width: 100%;
+    height: 70%; 
+    object-fit: cover; 
+}
+
+
+/*CUADROS DE INFORMACION*/
+
+.boxx {
+    height: 0;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background: linear-gradient(transparent,  rgba(0, 0, 0, 0.856) 70%);
+    border-radius:  25px;
+    transition: height 0.8s ease, top 0.8s ease;
+}
+
+.boxx h3 {
+    font-family: 'Cursive', sans-serif;
+    font-size: 19px;
+    text-shadow: 0 0 2px rgb(255, 253, 253);
+    letter-spacing: 2.5px;
+    color: #ffffff;
+}
+
+.boxx a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Cursive', sans-serif;
+    padding: 10px;
+    font-size: 14px;
+    background: linear-gradient(170deg, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.09));
+    border-radius: 10px;
+    text-align: center;
+    transition: 0.3s ease, transform 0.3s ease;
+}
+
+
+.smalll:hover .boxx {
+    height: 100%;
+    
+ 
+}
+
+
+
+.smalll h3{
+    font-size: 13px;
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
